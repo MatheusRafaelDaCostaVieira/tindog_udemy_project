@@ -1,1 +1,2 @@
-# tindog_udemy_project
+# Tindog - a project from my bootcamp
+
